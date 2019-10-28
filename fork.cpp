@@ -52,7 +52,7 @@ void  main(void)
      getch();
 }
 
-//yorum
+
 
 
 
